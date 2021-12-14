@@ -1,0 +1,30 @@
+body {
+    background: rgb(186, 187, 197);
+    
+}
+.container_my {
+    margin: auto;
+    width: 70vw;
+    margin-top: 5rem;
+    
+}
+.container_my ul li {
+    padding: 1rem 3rem;
+    list-style: none;
+    
+}
+.container_my ul li a {
+    border-radius: 20px;
+    padding: 0.5rem 1rem;
+    background: rgb(192, 164, 152);
+    font-size: 2rem;
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    transition: 0.3s linear;
+}
+.container_my ul li a:hover {
+    color: white;
+    background: rgb(179, 69, 22);
+}
+
